@@ -62,3 +62,20 @@ Contains HTML quiz or other practice files.
 - LF/CRLF warnings are automatically handled by Git on Windows.  
 - This repository is organized for **learning, experimentation, and practice**.  
 - Recommended to **commit frequently** and use branches for larger projects.  
+
+
+# VS_CODE Project
+
+## Overview
+This project contains various files, scripts, and setups related to **VS Code projects and Git operations**. It demonstrates proper version control, project organization, and development workflow.
+
+## Features
+- Organized project structure
+- Git version control best practices
+- Detailed commit history
+- README management and documentation
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rahulxsincara/VS-CODE-GIT.git
